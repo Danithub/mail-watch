@@ -1,0 +1,7 @@
+TITLE=메일
+PHISHING=피싱 의심
+ACTION=처리 대상
+CHECK=확인 필요
+INFO=참고
+UNIT=건
+MOVED=지운 편지함으로 이동

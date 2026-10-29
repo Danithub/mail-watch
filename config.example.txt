@@ -1,0 +1,2 @@
+OWNER=you@example.com
+ROLE=IT developer maintaining the XYZ system

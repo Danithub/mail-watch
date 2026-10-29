@@ -1,0 +1,10 @@
+# Personal settings
+config.txt
+
+# Runtime state and logs (contain real mail subjects, senders and Outlook EntryIDs)
+log/
+seen.txt
+items.json
+status.md
+last-run.txt
+*.msg
